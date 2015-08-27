@@ -20,6 +20,15 @@ Collection of social media `share-links`. Do you know of another service? Please
 https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
 ```
 
+## Google Bookmarks
+- URL: https://www.google.com/bookmarks/mark?op=edit
+- Documentation: Not found
+- Parameters: `annotation`, `bkmk`, `labels`, `op`, `title`
+
+```
+https://www.google.com/bookmarks/mark?op=edit&bkmk=http://example.com&title=Example&annotation=This+is+the+content&labels=Nyheter,Att+G%C3%B6ra&labels=One,Two
+```
+
 ## Google Plus
 - URL: https://plus.google.com/share
 - Documentation: https://developers.google.com/+/web/share/
