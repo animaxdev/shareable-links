@@ -73,7 +73,7 @@ https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&
 
 - URL: https://www.tumblr.com/widgets/share/tool
 - Documentation: https://www.tumblr.com/docs/en/share_button
-- Parameters: `posttype`, `url`, `canonicalUrl`, 'title', 'caption'
+- Parameters: `posttype`, `url`, `canonicalUrl`, `title`, `caption`
 
 ```
 https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://example.com&posttype=link&title=This+is+the+title&caption=This+is+the+content
