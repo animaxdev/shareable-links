@@ -16,6 +16,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Reddit](#reddit)
 - [Renren](#renren)
 - [Sina Weibo](#sina-weibo)
+- [StumbleUpon](#stumbleupon)
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
 - [Vkontakte](#vkontakte)
@@ -59,7 +60,7 @@ https://flattr.com/submit/auto?user_id=account&url=https://example.com&title=Thi
 
 ## Google Bookmarks
 - URL: https://www.google.com/bookmarks/mark?op=edit
-- Documentation: Not found
+- Documentation: Not Found
 - Parameters: `annotation`, `bkmk`, `labels`, `op`, `title`
 
 ```
@@ -128,6 +129,15 @@ http://widget.renren.com/dialog/share?resourceUrl=https://example.com&title=This
 
 ```
 http://service.weibo.com/share/share.php?url=https://example.com&title=This+is+the+title
+```
+
+## StumbleUpon
+- URL: http://www.stumbleupon.com/submit
+- Documentation: Not Found
+- Parameters: `url`, `title`
+
+```
+http://www.stumbleupon.com/submit?url=https://example.com&title=This+is+the+title
 ```
 
 ## Tumblr
