@@ -5,6 +5,7 @@
 Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
 - [Facebook](#facebook)
+- [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
