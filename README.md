@@ -5,6 +5,7 @@
 Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
 - [Facebook](#facebook)
+- [Flattr](#flattr)
 - [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
 - [LinkedIn](#linkedin)
@@ -20,6 +21,15 @@ Collection of social media `share-links`. Do you know of another service? Please
 
 ```
 https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
+```
+
+## Flattr
+- URL: https://facebook.com/sharer.php
+- Documentation: http://developers.flattr.net/auto-submit/
+- Parameters: `user_id`, `url`, `title`, `content`, `description`, `language`, `tags`, `hidden`, `category`
+
+```
+https://flattr.com/submit/auto?user_id=account&url=https://example.com&title=This+is+the+title
 ```
 
 ## Google Bookmarks
