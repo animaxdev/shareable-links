@@ -42,7 +42,7 @@ https://plus.google.com/share?url=https://example.com
 ## LinkedIn
 - URL: https://linkedin.com/shareArticle
 - Documentation: https://developer.linkedin.com/docs/share-on-linkedin
-- Parameters: `url`, `title`, `mini`, `summary`, `source
+- Parameters: `url`, `title`, `mini`, `summary`, `source`
 
 ```
 https://linkedin.com/shareArticle?url=https://example.com&title=This+is+the+title
