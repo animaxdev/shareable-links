@@ -19,6 +19,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
 - [Vkontakte](#vkontakte)
+- [Xing](#xing)
 
 ## Buffer
 - URL: https://bufferapp.com/add
@@ -156,6 +157,15 @@ https://twitter.com/share?url=https://example.com&text=This+is+the+content&via=a
 
 ```
 http://vk.com/share.php?url=https://example.com
+```
+
+## Xing
+- URL: https://www.xing.com/spi/shares/new
+- Documentation: https://dev.xing.com/plugins/share_button/docs
+- Parameters: `url`
+
+```
+https://www.xing.com/spi/shares/new?url=https://example.com
 ```
 
 ## License
