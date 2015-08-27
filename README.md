@@ -4,10 +4,20 @@
 
 Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
-- [Google Plus](#google-plus)
 - [Facebook](#facebook)
+- [Google Plus](#google-plus)
+- [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
 - [Twitter](#twitter)
+
+## Facebook
+- URL: https://facebook.com/sharer.php
+- Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
+- Parameters: `app_id`, `link`, `u`
+
+```
+https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
+```
 
 ## Google Plus
 - URL: https://plus.google.com/share
@@ -18,13 +28,13 @@ Collection of social media `share-links`. Do you know of another service? Please
 https://plus.google.com/share?url=https://example.com
 ```
 
-## Facebook
-- URL: https://facebook.com/sharer.php
-- Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
-- Parameters: `app_id`, `link`, `u`
+## LinkedIn
+- URL: https://linkedin.com/shareArticle
+- Documentation: https://developer.linkedin.com/docs/share-on-linkedin
+- Parameters: `url`, `title`, `mini`, `summary`, `source
 
 ```
-https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
+https://linkedin.com/shareArticle?url=https://example.com&title=This+is+the+title
 ```
 
 ## Pinterest
