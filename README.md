@@ -4,9 +4,19 @@
 
 Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
+- [Google Plus](#google-plus)
 - [Facebook](#facebook)
 - [Pinterest](#pinterest)
 - [Twitter](#twitter)
+
+## Google Plus
+- URL: https://plus.google.com/share
+- Documentation: https://developers.google.com/+/web/share/
+- Parameters: `url`
+
+```
+https://plus.google.com/share?url=https://example.com
+```
 
 ## Facebook
 - URL: https://facebook.com/sharer.php
@@ -14,7 +24,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - Parameters: `app_id`, `link`, `u`
 
 ```
-https://facebook.com/sharer.php?app_id=123456789&u=https://vinkla.com
+https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
 ```
 
 ## Pinterest
@@ -34,7 +44,7 @@ https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&
 - Parameters: `text`, `url`, `hashtags`, `via`, `related`, `in-reply-to`
 
 ```
-https://twitter.com/share?url=https://vinkla.com&text=This+is+the+content&via=vnkla&hashtags=yolo,idunno
+https://twitter.com/share?url=https://example.com&text=This+is+the+content&via=account&hashtags=one,two
 ```
 
 ## License
