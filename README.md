@@ -3,6 +3,7 @@
 Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
 - [Facebook](#facebook)
+- [Pinterest](#pinterest)
 - [Twitter](#twitter)
 
 ## Facebook
@@ -10,8 +11,18 @@ Collection of social media `share-links`. Do you know of another service? Please
 - Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
 - Parameters: `app_id`, `link`, `u`
 
-```text
+```
 https://facebook.com/sharer.php?app_id=12380921736&u=https://vinkla.com
+```
+
+## Pinterest
+
+- URL: https://pinterest.com/pin/create/bookmarklet
+- Documentation: https://developers.pinterest.com/docs/pin-it/
+- Parameters: `media`, `url`, `description`
+
+```
+https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&url=http://example.com&description=This+is+the+content
 ```
 
 ## Twitter
@@ -20,8 +31,8 @@ https://facebook.com/sharer.php?app_id=12380921736&u=https://vinkla.com
 - Documentation: https://dev.twitter.com/web/intents
 - Parameters: `text`, `url`, `hashtags`, `via`, `related`, `in-reply-to`
 
-```text
-https://twitter.com/share?url=https://vinkla.com&text=This is the content&via=vnkla&hashtags=yolo,idunno
+```
+https://twitter.com/share?url=https://vinkla.com&text=This+is+the+content&via=vnkla&hashtags=yolo,idunno
 ```
 
 ## License
