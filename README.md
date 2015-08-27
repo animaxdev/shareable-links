@@ -24,3 +24,6 @@ https://facebook.com/sharer.php?app_id=12380921736&u=https://vinkla.com
 https://twitter.com/share?url=https://vinkla.com&text=This is the content&via=vnkla&hashtags=yolo,idunno
 ```
 
+## License
+
+Share Links is licensed under [The MIT License (MIT)](LICENSE).
