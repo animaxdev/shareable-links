@@ -9,6 +9,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
 - [Twitter](#twitter)
+- [Reddit](#reddit)
 
 ## Facebook
 - URL: https://facebook.com/sharer.php
@@ -55,6 +56,15 @@ https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&
 
 ```
 https://twitter.com/share?url=https://example.com&text=This+is+the+content&via=account&hashtags=one,two
+```
+
+## Reddit
+- URL: http://reddit.com/submit
+- Documentation: https://www.reddit.com/buttons
+- Parameters: `url`, `title`
+
+```
+https://reddit.com/submit?url=http://example.com&title=This+is+the+title
 ```
 
 ## License
