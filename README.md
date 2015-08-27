@@ -14,6 +14,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
 - [Reddit](#reddit)
+- [Renren](#renren)
 - [Sina Weibo](#sina-weibo)
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
@@ -108,6 +109,15 @@ https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&
 
 ```
 https://reddit.com/submit?url=http://example.com&title=This+is+the+title
+```
+
+## Renren
+- URL: http://widget.renren.com/dialog/share
+- Documentation: http://dev.renren.com/website/?widget=rrshare
+- Parameters: `url`, `title`, `description`
+
+```
+http://widget.renren.com/dialog/share?resourceUrl=https://example.com&title=This+is+the+title&description=This+is+the+content
 ```
 
 ## Sina Weibo
