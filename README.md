@@ -1,6 +1,6 @@
 # Share Links
 
-Collection of social media `share-links', do you know of another service? Checkout the [contributing guidelines](CONTRIBUTING.md).
+Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
 - [Facebook](#facebook)
 - [Twitter](#twitter)
