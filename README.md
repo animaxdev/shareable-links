@@ -27,7 +27,7 @@ https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
 - Parameters: `annotation`, `bkmk`, `labels`, `op`, `title`
 
 ```
-https://www.google.com/bookmarks/mark?op=edit&bkmk=http://example.com&title=Example&annotation=This+is+the+content&labels=Nyheter,Att+G%C3%B6ra&labels=One,Two
+https://www.google.com/bookmarks/mark?op=edit&bkmk=https://example.com&title=This+is+the+title&annotation=This+is+the+content&labels=one,two
 ```
 
 ## Google Plus
