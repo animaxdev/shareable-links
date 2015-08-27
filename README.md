@@ -10,6 +10,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Flattr](#flattr)
 - [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
+- [Hacker News](#hacker-news)
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
 - [Reddit](#reddit)
@@ -70,6 +71,15 @@ https://www.google.com/bookmarks/mark?op=edit&bkmk=https://example.com&title=Thi
 
 ```
 https://plus.google.com/share?url=https://example.com
+```
+
+## Hacker News
+- URL: https://news.ycombinator.com/submitlink
+- Documentation: https://news.ycombinator.com/bookmarklet.html
+- Parameters: `u`, `t`
+
+```
+https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+title
 ```
 
 ## LinkedIn
