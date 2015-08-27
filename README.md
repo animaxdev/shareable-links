@@ -14,6 +14,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Sina Weibo](#sina-weibo)
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
+- [Vkontakte](#vkontakte)
 
 ## Facebook
 - URL: https://facebook.com/sharer.php
@@ -106,6 +107,15 @@ https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://example.com&postt
 
 ```
 https://twitter.com/share?url=https://example.com&text=This+is+the+content&via=account&hashtags=one,two
+```
+
+## Vkontakte
+- URL: http://vk.com/share.php
+- Documentation: http://vk.com/dev/share_details
+- Parameters: `url`
+
+```
+http://vk.com/share.php?url=https://example.com
 ```
 
 ## License
