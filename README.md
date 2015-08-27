@@ -4,6 +4,7 @@
 
 Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
+- [Buffer](#buffer)
 - [Delicious](#delicious)
 - [Facebook](#facebook)
 - [Flattr](#flattr)
@@ -16,6 +17,15 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
 - [Vkontakte](#vkontakte)
+
+## Buffer
+- URL: https://bufferapp.com/add
+- Documentation: https://buffer.com/extras/button
+- Parameters: `url`, `text`
+
+```
+https://bufferapp.com/add?url=https://example.com&text=This+is+the+content
+```
 
 ## Delicious
 - URL: https://delicious.com/post
