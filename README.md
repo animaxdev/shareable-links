@@ -10,9 +10,10 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Google Plus](#google-plus)
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
+- [Reddit](#reddit)
+- [Sina Weibo](#sina-weibo)
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
-- [Reddit](#reddit)
 
 ## Facebook
 - URL: https://facebook.com/sharer.php
@@ -69,6 +70,24 @@ https://linkedin.com/shareArticle?url=https://example.com&title=This+is+the+titl
 https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&url=http://example.com&description=This+is+the+content
 ```
 
+## Reddit
+- URL: http://reddit.com/submit
+- Documentation: https://www.reddit.com/buttons
+- Parameters: `url`, `title`
+
+```
+https://reddit.com/submit?url=http://example.com&title=This+is+the+title
+```
+
+## Sina Weibo
+- URL: http://service.weibo.com/share/share.php
+- Documentation: http://open.weibo.com/wiki/ShareCode
+- Parameters: `url`, `title`
+
+```
+http://service.weibo.com/share/share.php?url=https://example.com&title=This+is+the+title
+```
+
 ## Tumblr
 
 - URL: https://www.tumblr.com/widgets/share/tool
@@ -87,15 +106,6 @@ https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://example.com&postt
 
 ```
 https://twitter.com/share?url=https://example.com&text=This+is+the+content&via=account&hashtags=one,two
-```
-
-## Reddit
-- URL: http://reddit.com/submit
-- Documentation: https://www.reddit.com/buttons
-- Parameters: `url`, `title`
-
-```
-https://reddit.com/submit?url=http://example.com&title=This+is+the+title
 ```
 
 ## License
