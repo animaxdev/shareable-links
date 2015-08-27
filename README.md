@@ -6,15 +6,9 @@ Collection of social media `share-links', do you know of another service? Checko
 - [Twitter](#twitter)
 
 ## Facebook
-
-URL: https://facebook.com/sharer.php
-Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
-
-##### Parameters
-Name | Example
----- | -------
-app_id | 12380921736
-u | https://vinkla.com
+- URL: https://facebook.com/sharer.php
+- Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
+- Parameters: `app_id`, `link`, `u`
 
 ##### Example
 ```
@@ -23,17 +17,12 @@ https://facebook.com/sharer.php?app_id=12380921736&u=https://vinkla.com
 
 ## Twitter
 
-URL: https://facebook.com/sharer.php
-Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
-
-##### Parameters
-Name | Example
----- | -------
-app_id | 12380921736
-u | https://vinkla.com
+- URL: https://twitter.com/share
+- Documentation: https://dev.twitter.com/web/intents
+- Parameters: `text`, `url`, `hashtags`, `via`, `related`, `in-reply-to`
 
 ##### Example
 ```
-https://facebook.com/sharer.php?app_id=12380921736&u=https://vinkla.com
+https://twitter.com/share?url=https://vinkla.com&text=This is the content&via=vnkla&hashtags=yolo,idunno
 ```
 
