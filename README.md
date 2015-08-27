@@ -14,7 +14,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - Parameters: `app_id`, `link`, `u`
 
 ```
-https://facebook.com/sharer.php?app_id=12380921736&u=https://vinkla.com
+https://facebook.com/sharer.php?app_id=123456789&u=https://vinkla.com
 ```
 
 ## Pinterest
