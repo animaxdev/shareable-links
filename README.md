@@ -9,6 +9,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Google Plus](#google-plus)
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
+- [Tumblr](#tumblr)
 - [Twitter](#twitter)
 - [Reddit](#reddit)
 
@@ -56,6 +57,16 @@ https://linkedin.com/shareArticle?url=https://example.com&title=This+is+the+titl
 
 ```
 https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&url=http://example.com&description=This+is+the+content
+```
+
+## Tumblr
+
+- URL: https://www.tumblr.com/widgets/share/tool
+- Documentation: https://www.tumblr.com/docs/en/share_button
+- Parameters: `posttype`, `url`, `canonicalUrl`, 'title', 'caption'
+
+```
+https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://example.com&posttype=link&title=This+is+the+title&caption=This+is+the+content
 ```
 
 ## Twitter
