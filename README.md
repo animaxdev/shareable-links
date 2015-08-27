@@ -4,6 +4,7 @@
 
 Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
 
+- [Delicious](#delicious)
 - [Facebook](#facebook)
 - [Flattr](#flattr)
 - [Google Bookmarks](#google-bookmarks)
@@ -15,6 +16,15 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
 - [Vkontakte](#vkontakte)
+
+## Delicious
+- URL: https://delicious.com/post
+- Documentation: https://delicious.com/tools
+- Parameters: `url`, `title`, `notes`
+
+```
+https://delicious.com/post?url=https://example.com&title=This+is+the+title&notes=This+is+the+content
+```
 
 ## Facebook
 - URL: https://facebook.com/sharer.php
