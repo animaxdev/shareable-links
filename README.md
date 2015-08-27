@@ -6,6 +6,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 
 - [Buffer](#buffer)
 - [Delicious](#delicious)
+- [Digg](#digg)
 - [Facebook](#facebook)
 - [Flattr](#flattr)
 - [Google Bookmarks](#google-bookmarks)
@@ -38,6 +39,15 @@ https://bufferapp.com/add?url=https://example.com&text=This+is+the+content
 
 ```
 https://delicious.com/post?url=https://example.com&title=This+is+the+title&notes=This+is+the+content
+```
+
+## Digg
+- URL: http://digg.com/submit
+- Documentation: Not Found
+- Parameters: `url`, `title`
+
+```
+http://digg.com/submit?url=https://example.com&title=This+is+the+title
 ```
 
 ## Facebook
