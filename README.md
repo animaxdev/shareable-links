@@ -7,6 +7,7 @@ Collection of social media `share-links`. Do you know of another service? Please
 - [Buffer](#buffer)
 - [Delicious](#delicious)
 - [Digg](#digg)
+- [Echo JS](#echo-js)
 - [Facebook](#facebook)
 - [Flattr](#flattr)
 - [Google Bookmarks](#google-bookmarks)
@@ -48,6 +49,15 @@ https://delicious.com/post?url=https://example.com&title=This+is+the+title&notes
 
 ```
 http://digg.com/submit?url=https://example.com&title=This+is+the+title
+```
+
+## Echo JS
+- URL: http://www.echojs.com/submit
+- Documentation: http://www.echojs.com/submit
+- Parameters: `u`, `t`
+
+```
+http://www.echojs.com/submit?u=https://example.com&t=This+is+the+title
 ```
 
 ## Facebook
