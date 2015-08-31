@@ -7,3 +7,4 @@ Contributions are welcome, and are accepted via pull requests. Please review the
 * Check your spelling and grammar.
 * The pull request and commit should have a useful title.
 * Documentation links should be official from the share link provider.
+* If there doens't exist any official documentation, please add `Not Found`.
