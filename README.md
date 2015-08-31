@@ -2,7 +2,7 @@
 
 ![share-links](https://cloud.githubusercontent.com/assets/499192/9524299/8315b54a-4cde-11e5-830a-34b3c4eb8bac.png)
 
-Collection of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and create a pull request.
+A curated list of social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and make a pull request.
 
 - [Buffer](#buffer)
 - [Delicious](#delicious)
