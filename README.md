@@ -25,12 +25,12 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Xing](#xing)
 
 ## Buffer
-- URL: https://bufferapp.com/add
+- URL: https://buffer.com/add
 - Documentation: https://buffer.com/extras/button
 - Parameters: `url`, `text`
 
 ```
-https://bufferapp.com/add?url=https://example.com&text=This+is+the+content
+https://buffer.com/add?text=This+is+the+content&url=https%3A%2F%2Fexample.com 
 ```
 
 ## Delicious
