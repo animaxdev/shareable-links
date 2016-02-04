@@ -30,6 +30,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Twitter](#twitter)
 - [Viber](#viber)
 - [Vkontakte](#vkontakte)
+- [WhatsApp](#whatsapp)
 - [Xing](#xing)
 
 ## Buffer
@@ -251,6 +252,15 @@ viber://forward?text=This+is+the+content
 
 ```
 http://vk.com/share.php?url=https://example.com
+```
+
+## WhatsApp
+- URI: `whatsapp://send`
+- Documentation: https://www.whatsapp.com/faq/en/iphone/23559013
+- Parameters: `text`
+
+```
+whatsapp://send?text=This+is+the+content
 ```
 
 ## Xing
