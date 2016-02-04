@@ -24,6 +24,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Telegram](#telegram)
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
+- [Viber](#viber)
 - [Vkontakte](#vkontakte)
 - [Xing](#xing)
 
@@ -190,6 +191,15 @@ https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://example.com&postt
 
 ```
 https://twitter.com/share?url=https://example.com&text=This+is+the+content&via=account&hashtags=one,two
+```
+
+## Viber
+- URI: `viber://forward`
+- Documentation: https://www.viber.com/en/viber-share-button
+- Parameters: `text`
+
+```
+viber://forward?text=This+is+the+content
 ```
 
 ## Vkontakte
