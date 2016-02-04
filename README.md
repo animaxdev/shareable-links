@@ -15,6 +15,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
 - [Hacker News](#hacker-news)
+- [Instapaper](#instapaper)
 - [Line](#line)
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
@@ -108,6 +109,15 @@ https://plus.google.com/share?url=https://example.com
 
 ```
 https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+title
+```
+
+## Instapaper
+- URL: https://www.instapaper.com/text
+- Documentation: https://news.ycombinator.com/bookmarklet.html
+- Parameters: `u`
+
+```
+https://www.instapaper.com/text?u=http://example.com
 ```
 
 ## LinkedIn
