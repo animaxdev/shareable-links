@@ -4,6 +4,8 @@
 
 A curated list of awesome social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and make a pull request.
 
+##### Table of Contents
+
 - [Buffer](#buffer)
 - [Delicious](#delicious)
 - [Digg](#digg)
