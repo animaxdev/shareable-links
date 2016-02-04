@@ -70,7 +70,7 @@ https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
 ```
 
 ## Flattr
-- URL: https://facebook.com/sharer.php
+- URL: https://flattr.com/submit/auto
 - Documentation: http://developers.flattr.net/auto-submit/
 - Parameters: `user_id`, `url`, `title`, `content`, `description`, `language`, `tags`, `hidden`, `category`
 
