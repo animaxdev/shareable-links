@@ -49,7 +49,7 @@ https://delicious.com/post?url=https://example.com&title=This+is+the+title&notes
 
 ## Digg
 - URL: http://digg.com/submit
-- Documentation: N/A
+- Documentation: `N/A`
 - Parameters: `url`, `title`
 
 ```
@@ -85,7 +85,7 @@ https://flattr.com/submit/auto?user_id=account&url=https://example.com&title=Thi
 
 ## Google Bookmarks
 - URL: https://www.google.com/bookmarks/mark?op=edit
-- Documentation: N/A
+- Documentation: `N/A`
 - Parameters: `annotation`, `bkmk`, `labels`, `op`, `title`
 
 ```
@@ -122,7 +122,7 @@ https://linkedin.com/shareArticle?url=https://example.com&title=This+is+the+titl
 ## Line
 - URL: http://line.me/R/msg/text
 - Documentation: https://media.line.me/howto/en/
-- Parameters: N/A
+- Parameters: `N/A`
 
 ```
 http://line.me/R/msg/text?This+is+the+content
@@ -167,7 +167,7 @@ http://service.weibo.com/share/share.php?url=https://example.com&title=This+is+t
 
 ## StumbleUpon
 - URL: http://www.stumbleupon.com/submit
-- Documentation: N/A
+- Documentation: `N/A`
 - Parameters: `url`, `title`
 
 ```
@@ -176,7 +176,7 @@ http://www.stumbleupon.com/submit?url=https://example.com&title=This+is+the+titl
 
 ## Telegram
 - URI: `tg://msg_url`
-- Documentation: N/A
+- Documentation: `N/A`
 - Parameters: `text`
 
 ```
