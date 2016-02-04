@@ -13,7 +13,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
 - [Hacker News](#hacker-news)
-- [Linked In](#linked-in)
+- [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
 - [Reddit](#reddit)
 - [Renren](#renren)
@@ -105,7 +105,7 @@ https://plus.google.com/share?url=https://example.com
 https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+title
 ```
 
-## Linked In
+## LinkedIn
 - URL: https://linkedin.com/shareArticle
 - Documentation: https://developer.linkedin.com/docs/share-on-linkedin
 - Parameters: `url`, `title`, `mini`, `summary`, `source`
