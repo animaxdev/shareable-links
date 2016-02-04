@@ -87,7 +87,7 @@ https://flattr.com/submit/auto?user_id=account&url=https://example.com&title=Thi
 
 ## Flipboard
 - URL: https://share.flipboard.com/bookmarklet/popout
-- Documentation: http://developers.flattr.net/auto-submit/
+- Documentation: https://about.flipboard.com/tools/
 - Parameters: `v`, `title`, `url`, `t`
 
 ```
