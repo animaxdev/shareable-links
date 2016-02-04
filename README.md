@@ -20,6 +20,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Line](#line)
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
+- [Pocket](#pocket)
 - [Reddit](#reddit)
 - [Renren](#renren)
 - [Sina Weibo](#sina-weibo)
@@ -157,6 +158,17 @@ http://line.me/R/msg/text?This+is+the+content
 ```
 https://pinterest.com/pin/create/bookmarklet?media=http://example.com/image.jpg&url=http://example.com&description=This+is+the+content
 ```
+
+## Pocket
+
+- URL: https://getpocket.com/save
+- Documentation: https://getpocket.com/add
+- Parameters: `title`, `url`
+
+```
+https://getpocket.com/save?title=This+is+the+title&url=http://example.com
+```
+
 
 ## Reddit
 - URL: http://reddit.com/submit
