@@ -19,6 +19,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Renren](#renren)
 - [Sina Weibo](#sina-weibo)
 - [StumbleUpon](#stumbleupon)
+- [Telegram](#telegram)
 - [Tumblr](#tumblr)
 - [Twitter](#twitter)
 - [Vkontakte](#vkontakte)
@@ -30,7 +31,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - Parameters: `url`, `text`
 
 ```
-https://buffer.com/add?text=This+is+the+content&url=https%3A%2F%2Fexample.com 
+https://buffer.com/add?text=This+is+the+content&url=https%3A%2F%2Fexample.com
 ```
 
 ## Delicious
@@ -44,7 +45,7 @@ https://delicious.com/post?url=https://example.com&title=This+is+the+title&notes
 
 ## Digg
 - URL: http://digg.com/submit
-- Documentation: Not Found
+- Documentation: N/A
 - Parameters: `url`, `title`
 
 ```
@@ -80,7 +81,7 @@ https://flattr.com/submit/auto?user_id=account&url=https://example.com&title=Thi
 
 ## Google Bookmarks
 - URL: https://www.google.com/bookmarks/mark?op=edit
-- Documentation: Not Found
+- Documentation: N/A
 - Parameters: `annotation`, `bkmk`, `labels`, `op`, `title`
 
 ```
@@ -153,11 +154,20 @@ http://service.weibo.com/share/share.php?url=https://example.com&title=This+is+t
 
 ## StumbleUpon
 - URL: http://www.stumbleupon.com/submit
-- Documentation: Not Found
+- Documentation: N/A
 - Parameters: `url`, `title`
 
 ```
 http://www.stumbleupon.com/submit?url=https://example.com&title=This+is+the+title
+```
+
+## Telegram
+- URI: tg://msg_url
+- Documentation: N/A
+- Parameters: `text`
+
+```
+tg://msg_url?text=This+is+the+content
 ```
 
 ## Tumblr
@@ -197,7 +207,6 @@ http://vk.com/share.php?url=https://example.com
 ```
 https://www.xing.com/spi/shares/new?url=https://example.com
 ```
-
 
 ## License
 
