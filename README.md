@@ -10,6 +10,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Delicious](#delicious)
 - [Digg](#digg)
 - [Echo JS](#echo-js)
+- [Email](#email)
 - [Facebook](#facebook)
 - [Flattr](#flattr)
 - [Flipboard](#flipboard)
@@ -67,6 +68,15 @@ http://digg.com/submit?url=https://example.com&title=This+is+the+title
 
 ```
 http://www.echojs.com/submit?u=https://example.com&t=This+is+the+title
+```
+
+## Email
+- URL: `mailto:`
+- Documentation: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Email_links
+- Parameters: `subject`, `body`
+
+```
+mailto:david.hasselhoff@example.com?subject=This+is+the+subject&body=This+is+the+content
 ```
 
 ## Facebook
