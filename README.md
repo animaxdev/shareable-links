@@ -15,6 +15,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
 - [Hacker News](#hacker-news)
+- [Line](#line)
 - [LinkedIn](#linkedin)
 - [Pinterest](#pinterest)
 - [Reddit](#reddit)
@@ -116,6 +117,15 @@ https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+titl
 
 ```
 https://linkedin.com/shareArticle?url=https://example.com&title=This+is+the+title
+```
+
+## Line
+- URL: http://line.me/R/msg/text
+- Documentation: https://media.line.me/howto/en/
+- Parameters: N/A
+
+```
+http://line.me/R/msg/text?This+is+the+content
 ```
 
 ## Pinterest
