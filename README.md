@@ -162,7 +162,7 @@ http://www.stumbleupon.com/submit?url=https://example.com&title=This+is+the+titl
 ```
 
 ## Telegram
-- URI: tg://msg_url
+- URI: `tg://msg_url`
 - Documentation: N/A
 - Parameters: `text`
 
