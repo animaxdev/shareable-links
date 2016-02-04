@@ -12,6 +12,7 @@ A curated list of awesome social media `share-links`. Do you know of another ser
 - [Echo JS](#echo-js)
 - [Facebook](#facebook)
 - [Flattr](#flattr)
+- [Flipboard](#flipboard)
 - [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
 - [Hacker News](#hacker-news)
@@ -84,6 +85,15 @@ https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
 https://flattr.com/submit/auto?user_id=account&url=https://example.com&title=This+is+the+title
 ```
 
+## Flipboard
+- URL: https://share.flipboard.com/bookmarklet/popout
+- Documentation: http://developers.flattr.net/auto-submit/
+- Parameters: `v`, `title`, `url`, `t`
+
+```
+https://share.flipboard.com/bookmarklet/popout?v=2&title=This+is+the+title&url=http://example.com&t=201601010000
+```
+
 ## Google Bookmarks
 - URL: https://www.google.com/bookmarks/mark?op=edit
 - Documentation: `N/A`
@@ -113,7 +123,7 @@ https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+titl
 
 ## Instapaper
 - URL: https://www.instapaper.com/text
-- Documentation: https://news.ycombinator.com/bookmarklet.html
+- Documentation: `N/A`
 - Parameters: `u`
 
 ```
