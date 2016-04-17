@@ -220,7 +220,7 @@ http://www.stumbleupon.com/submit?url=https://example.com&title=This+is+the+titl
 ## Telegram
 - URI: `tg://msg_url`
 - Documentation: `N/A`
-- Parameters: `text`
+- Parameters: `text`, `url`
 
 ```
 tg://msg_url?text=This+is+the+content
