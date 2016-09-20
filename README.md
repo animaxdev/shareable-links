@@ -2,7 +2,7 @@
 
 <img src="https://cloud.githubusercontent.com/assets/499192/18660063/c6497820-7f0e-11e6-9d3f-c728227516cb.png" align="right" alt="awesome share links" width="280">
 
-> A curated list of awesome social media `share-links`.
+> A curated list of awesome social media share links.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
