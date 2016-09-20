@@ -1,8 +1,12 @@
 # Share Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![share-links](https://cloud.githubusercontent.com/assets/499192/9524299/8315b54a-4cde-11e5-830a-34b3c4eb8bac.png)
+<img src="https://cloud.githubusercontent.com/assets/499192/18660063/c6497820-7f0e-11e6-9d3f-c728227516cb.png" align="right" alt="awesome share links" width="280">
 
-A curated list of awesome social media `share-links`. Do you know of another service? Please see the [contributing guidelines](CONTRIBUTING.md) and make a pull request.
+> A curated list of awesome social media `share-links`.
+
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+
+Like `awesome-share`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
 
 ##### Table of Contents
 
