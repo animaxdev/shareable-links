@@ -6,7 +6,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-Like `awesome-share`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
+Like `awesome-share`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vinkla)! 👋
 
 #### Contents
 
