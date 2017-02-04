@@ -48,12 +48,12 @@ https://buffer.com/add?text=This+is+the+content&url=https%3A%2F%2Fexample.com
 ```
 
 ## Delicious
-- URL: https://delicious.com/post
-- Documentation: https://delicious.com/tools
+- URL: https://del.icio.us/post
+- Documentation: https://del.icio.us/tools
 - Parameters: `url`, `title`, `notes`
 
 ```
-https://delicious.com/post?url=https://example.com&title=This+is+the+title&notes=This+is+the+content
+https://del.icio.us/post?url=https://example.com&title=This+is+the+title&notes=This+is+the+content
 ```
 
 ## Digg
