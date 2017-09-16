@@ -92,6 +92,14 @@ mailto:david.hasselhoff@example.com?subject=This+is+the+subject&body=This+is+the
 https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
 ```
 
+Alternatively without an application:
+- URL : https://facebook.com/sharer/sharer.php
+- Parameters: `link`, `u`
+
+```
+https://www.facebook.com/sharer/sharer.php?u=https://example.com
+```
+
 ## Flattr
 - URL: https://flattr.com/submit/auto
 - Documentation: http://developers.flattr.net/auto-submit/
