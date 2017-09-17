@@ -84,19 +84,6 @@ mailto:david.hasselhoff@example.com?subject=This+is+the+subject&body=This+is+the
 ```
 
 ## Facebook
-
-### Share Dialog
-
-- URL: https://facebook.com/sharer.php
-- Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
-- Parameters: `app_id`, `u`
-
-```
-https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
-```
-
-### Share button plugin
-
 - URL : https://facebook.com/sharer/sharer.php
 - Documentation: https://developers.facebook.com/docs/plugins/share-button/
 - Parameters: `u`
