@@ -21,6 +21,7 @@ Like `shareable-links`? Reach out to me and say *hi* on [Twitter](https://twitte
 - [Google Bookmarks](#google-bookmarks)
 - [Google Plus](#google-plus)
 - [Hacker News](#hacker-news)
+- [Instagram](#instagram)
 - [Instapaper](#instapaper)
 - [Line](#line)
 - [LinkedIn](#linkedin)
@@ -135,6 +136,15 @@ https://plus.google.com/share?url=https://example.com
 
 ```
 https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+title
+```
+
+## Instagram
+- URL: `instagram://camera`
+- Documentation: https://www.instagram.com/developer/mobile-sharing/
+- Parameters: `camera`
+
+```
+instagram://camera
 ```
 
 ## Instapaper
